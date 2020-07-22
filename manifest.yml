@@ -1,7 +1,7 @@
 ---
 applications:
 - name: chat
-  host: trial-chat
+  host: trial1-chat
   path: .
   memory: 128M
   buildpack: nodejs_buildpack
